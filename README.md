@@ -20,6 +20,7 @@ Automated identity lifecycle using Okta Workflows, SCIM APIs, Terraform, and Ans
 Integrated PAM solutions (CyberArk, BeyondTrust) with SIEM tools like Splunk and Microsoft Sentinel for compliance and real-time monitoring.
 
 🌱 What I'm Learning
+
 My passion lies in enabling Zero Trust security architectures and compliance-driven IAM strategies. I am constantly learning about:
 
 Evolving authentication standards like FIDO2/WebAuthn.
@@ -29,8 +30,10 @@ Advanced cloud-native IAM models (AWS IAM Identity Center, Azure Entra ID).
 Leveraging automation with Python, PowerShell, and Terraform for scalable IAM deployments.
 
 📫 How to Reach Me
+
 📧 Email: jyothsnarg1603@gmail.com
 💼 LinkedIn:linkedin.com/in/jyothsna-rani-gajula-24982a129
+
 😄 Fun Facts
 When I’m not engineering secure access systems, I love exploring new tech, mentoring peers, and keeping up with the latest in cybersecurity. I also enjoy spending quality time with family and engaging in creative problem-solving outside the digital world.
 
