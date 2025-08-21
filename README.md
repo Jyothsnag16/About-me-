@@ -4,8 +4,11 @@ I'm Jyothsna Rani Gajula, a passionate Identity & Access Management (IAM) profes
 💼 Professional Background
 
 🎓 Bachelor’s degree in Electronics and Communication from JNTUA, India.
+
 🌐 Currently working as Senior Okta IAM Engineer at Fiserv.
+
 🚀 Previously worked with Cognizant, Honeywell, and Capgemini in various IAM/CIAM engineering roles.
+
 🔐 Specialized in Okta, Azure AD, SailPoint, CyberArk, Ping Identity, and AWS IAM.
 
 🔭 What I Worked On
