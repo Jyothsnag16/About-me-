@@ -33,6 +33,7 @@ Leveraging automation with Python, PowerShell, and Terraform for scalable IAM de
 📫 How to Reach Me
 
 📧 Email: jyothsnarg1603@gmail.com
+
 💼 LinkedIn:linkedin.com/in/jyothsna-rani-gajula-24982a129
 
 😄 Fun Facts
